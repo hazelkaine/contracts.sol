@@ -1,0 +1,13 @@
+
+npm nit 
+
+npm install --save-dev hardhat 
+
+//on local machine run npx
+
+npx hardhat 
+
+Hardhat will not let you run solidity on your local machine 
+
+//to furtur understand the avaialbe functions run npx hardhat in project folder
+
